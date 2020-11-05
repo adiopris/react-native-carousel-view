@@ -4,7 +4,7 @@
 import React, {Component} from 'react';
 import {
   ViewPagerAndroid,
-} from 'react-native';
+} from 'react-native-viewpager';
 
 type Props = {
   width: number,
